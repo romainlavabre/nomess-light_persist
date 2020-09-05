@@ -1,0 +1,15 @@
+{
+    "name": "nomess/light_persist",
+    "description": "Light persistance for nomess",
+    "type": "library",
+    "require": {
+        "nomess/kernel": "^2.25",
+        "nomess/cache": "^0.0.2"
+    },
+    "authors": [
+        {
+            "name": "Romain Lavabre",
+            "email": "webmaster@newwebsouth.fr"
+        }
+    ]
+}
