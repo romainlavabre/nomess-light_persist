@@ -3,8 +3,8 @@
     "description": "Light persistance for nomess",
     "type": "library",
     "require": {
-        "nomess/kernel": "^2.25",
-        "nomess/cache": "^0.0.2"
+        "nomess/kernel": "*",
+        "nomess/cache": "*"
     },
     "authors": [
         {
